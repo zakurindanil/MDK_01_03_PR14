@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- элемент -->
+    <item>
+        <!-- фигура -->
+        <shape>
+            <!-- фон фигуры -->
+            <solid android:color="@color/white"/>
+            <!-- скругление -->
+            <corners android:radius="22dp"/>
+        </shape>
+    </item>
+    <!-- элемент -->
+    <item
+        android:drawable="@drawable/direction_left"
+        android:width="5.5dp"
+        android:height="11.5dp"
+        android:gravity="center"/>
+</layer-list>

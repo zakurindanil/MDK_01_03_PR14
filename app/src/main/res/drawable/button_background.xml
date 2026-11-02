@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- фон фигуры -->
+    <solid android:color="#48B2E7"/>
+    <!-- скругление -->
+    <corners android:radius="14dp"/>
+</shape>
