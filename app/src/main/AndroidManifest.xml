@@ -15,6 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Forgot_password_zakurin">
         <activity
+            android:name=".Verification"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
